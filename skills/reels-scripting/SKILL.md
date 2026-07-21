@@ -106,7 +106,7 @@ Apply these rules (non-negotiable):
 - Mirror the hook's word count and structure from the reference analysis.
 
 ### Body
-- British English. Short sentences. No em dashes, no semicolons.
+- Português Brasil. Short sentences. No em dashes, no semicolons.
 - Use "you" and "just" conversationally ("you just drop in...").
 - Never merge three or more staccato fragments. Combine into one flowing sentence.
 - Never state the conclusion. Let the facts do the work.
